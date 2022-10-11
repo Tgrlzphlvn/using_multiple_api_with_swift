@@ -53,7 +53,7 @@ enum CreditBidDetailsNameParameters : String {
 }
 
 struct ServicePlugins {
-    static let headers = ["content-type": "application/json", "authorization" : "apikey 1EsSsgSZMq46ACLKsM4kSQ:4hdbRpcDUlbMSOizgexY86"]
+    static let headers = ["content-type": "application/json", "authorization" : " "]
     static let url = "https://api.collectapi.com/credit"
     static let getMethod = "GET"
 }
